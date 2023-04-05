@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281779911094",
+    "project_id": "crud-read-n-write",
+    "storage_bucket": "crud-read-n-write.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281779911094:android:3076107f1989b267432917",
+        "android_client_info": {
+          "package_name": "com.example.crud_readnwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281779911094-il11fo10l6uiff5fbilerr64ijrshf2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLbpdafAY-Ag2wvJd-lZx_PSuLXLYsDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281779911094-il11fo10l6uiff5fbilerr64ijrshf2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
